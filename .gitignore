@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/HyperMetro/task/build/
+/HyperMetro/task/out/
+/HyperMetro/task/out/production/classes/
+/HyperMetro/task/out/test/classes/
